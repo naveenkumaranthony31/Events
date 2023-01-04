@@ -1,0 +1,19 @@
+.image{
+    height: 400px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container-fluid{
+    width: 600px;
+    padding-top: 20px;
+}
+.text-warning{
+    background-color: rgb(59, 58, 58);
+    border-radius: 10px;
+}
+body{
+    background-image: url("Events.jpeg")}
